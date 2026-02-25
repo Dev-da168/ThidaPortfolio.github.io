@@ -159,7 +159,7 @@ const experienceSection = {
     },
     friends: {
         title: "Friends-International Organization - Web Developer",
-        image: ["./img /mypic.jpeg"],
+        image: ["./img/friends.jpeg"],
         description: `
             <ul>Responsibile:
             <li>Developed and maintained the organization's website</li>
